@@ -1,0 +1,28 @@
+name: "Regina's Stuff"
+favicon: null
+layout_spectrum: 0.563758541829884
+typography_spectrum: 0.5686602599453181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9018315384164453
+  lightness: 0.060317751253023744
+  saturation: 0.5064108483493328
+  rhythmicContrast: 0.565298426663503
+purpose: []
