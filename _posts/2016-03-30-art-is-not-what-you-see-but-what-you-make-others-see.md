@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T21:43:22.545Z'
-dateModified: '2016-04-12T21:43:19.958Z'
+datePublished: '2016-04-12T21:43:56.586Z'
+dateModified: '2016-04-12T21:43:31.070Z'
 title: '"Art is not what you see, but what you make others see."'
 author: []
 sourcePath: _posts/2016-03-30-art-is-not-what-you-see-but-what-you-make-others-see.md
